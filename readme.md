@@ -12,13 +12,7 @@ For the encryption to work, you need to provide two keys: the password (key) and
 
 ## Getting Started
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/<USERNAME>/<REPOSITORY>.git
-   cd <REPOSITORY>
-
-2. **Setup the paths in the code:**
+1. **Setup the paths in the code:**
 
    Change the path to the location of your files
    ```csharp
@@ -26,7 +20,7 @@ For the encryption to work, you need to provide two keys: the password (key) and
    string pathkey = "C:\\path\\to\\your\\key.txt";
    string pathiv = "C:\\path\\to\\your\\iv.txt";
 
-3. **Run the code:**
+2. **Run the code:**
 
 To encrypt, uncomment the encryption part and comment out the decryption part.
 To decrypt, uncomment the decryption part and comment out the encryption part.
