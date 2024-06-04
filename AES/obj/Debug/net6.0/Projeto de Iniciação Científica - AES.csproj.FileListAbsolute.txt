@@ -1,0 +1,14 @@
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\bin\Debug\net6.0\Projeto de Iniciação Científica - AES.exe
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\bin\Debug\net6.0\Projeto de Iniciação Científica - AES.deps.json
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\bin\Debug\net6.0\Projeto de Iniciação Científica - AES.runtimeconfig.json
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\bin\Debug\net6.0\Projeto de Iniciação Científica - AES.dll
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\bin\Debug\net6.0\Projeto de Iniciação Científica - AES.pdb
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\obj\Debug\net6.0\Projeto de Iniciação Científica - AES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\obj\Debug\net6.0\Projeto de Iniciação Científica - AES.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\obj\Debug\net6.0\Projeto de Iniciação Científica - AES.AssemblyInfo.cs
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\obj\Debug\net6.0\Projeto de Iniciação Científica - AES.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\obj\Debug\net6.0\Projeto de Iniciação Científica - AES.dll
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\obj\Debug\net6.0\refint\Projeto de Iniciação Científica - AES.dll
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\obj\Debug\net6.0\Projeto de Iniciação Científica - AES.pdb
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\obj\Debug\net6.0\Projeto de Iniciação Científica - AES.genruntimeconfig.cache
+C:\Users\Victor\source\repos\Projeto de Iniciação Científica - AES\Projeto de Iniciação Científica - AES\obj\Debug\net6.0\ref\Projeto de Iniciação Científica - AES.dll
