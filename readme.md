@@ -21,6 +21,7 @@ For the encryption to work, you need to provide two keys: the password (key) and
 2. **Setup the paths in the code:**
 
 Change the path to the location of your files
+```csharp
 string path = "C:\\path\\to\\your\\file.txt";
 string pathkey = "C:\\path\\to\\your\\key.txt";
 string pathiv = "C:\\path\\to\\your\\iv.txt";
